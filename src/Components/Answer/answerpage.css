@@ -1,0 +1,46 @@
+.main-content{
+    
+        display:flex;
+        flex-direction:column;
+        width:100%;
+        height: fit-content;
+        box-sizing: border-box;
+        border: 1px solid black;
+        box-shadow: 10px 10px 8px #888888;
+        padding: 40px;
+       
+}
+.card-content-p{
+    font-size:1rem;
+    font-weight:bold;
+
+}
+.main-card{
+    justify-content: space-between;
+    margin-top:20px;
+    background-color: rgb(207, 205, 205);
+    
+}
+
+.main-card:hover{
+    cursor: pointer;
+    background-color:#FF007D;
+}
+
+.main-button{
+    border-radius: 10px;
+}
+
+.main-content-button{
+    margin: 30px;
+    text-align: center;
+    justify-content: center;
+}
+.submit-button{
+    padding: 10px;
+   
+}
+.submit-button:hover{
+    cursor: pointer;
+    background-color: #FF007D;
+}

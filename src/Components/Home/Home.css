@@ -1,0 +1,25 @@
+.main{
+    display:flex;
+    flex-direction:column;
+    text-align:center;
+    width:100%;
+    align-items:center;
+    height: fit-content;
+    box-sizing: border-box;
+    border: 1px solid black;
+    border-radius:5px;
+    box-shadow: 10px 10px 8px #888888;
+    padding-top: 70px;
+    justify-content: center;
+    
+   
+  }
+  
+  .submit-button-home{
+    margin-top:40px;
+  }
+
+  .home-last{
+      margin-top:60px;
+      padding: 40px;
+  }

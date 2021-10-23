@@ -1,0 +1,33 @@
+.box{
+    filter: blur(3px);
+}
+
+.conatiner{
+    position: relative;
+    
+}
+
+.pub-quickbit{
+    position: absolute;
+    opacity: 0.8;
+    background-color:black;
+    margin-top: -250px;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    margin-left: 350px;
+}
+.unlock{
+    color: white;
+}
+.unlock-button{
+    color: white;
+    background-color:#FF007D;
+}
+
+@media  screen and (max-width: 550px){
+    .pub-quickbit{
+        margin-bottom:-60px;
+        margin-left: 60px;
+    }
+}

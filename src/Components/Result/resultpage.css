@@ -1,0 +1,24 @@
+.result-main{
+    display: flex;
+    flex-direction: row;
+   justify-content:space-around;
+}
+
+.result-main-p{
+    margin-left: 50px;
+    
+}
+
+.result-main-button{
+    background-color: black;
+    color: white;
+    /* padding:6px; */
+    border-radius: 3px;
+    margin: 20px;
+   
+
+}
+.result-main-button:hover{
+      background-color:#FF007D;
+      cursor: pointer;
+}

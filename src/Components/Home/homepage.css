@@ -1,0 +1,47 @@
+
+.card-content-p{
+font-size:1rem;
+font-weight:bold;
+margin-top: 20px;
+
+}
+.main-card{
+justify-content: space-between;
+margin-top:20px;
+background-color: rgb(207, 205, 205);
+
+}
+
+.main-card:hover{
+cursor: pointer;
+background-color:#FF007D;
+}
+
+.main-button{
+border-radius: 10px;
+}
+
+.main-content-button{
+margin: 30px;
+text-align: center;
+justify-content: center;
+}
+.submit-button{
+padding: 10px;
+
+}
+.submit-button:hover{
+cursor: pointer;
+background-color: #FF007D;
+}
+
+.main-card-home{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    
+}
+
+
+
+
